@@ -1,4 +1,4 @@
-<center><img src="./images/bbt-boba.png" width="300px" height="auto"/><img src="./images/logo.svg" width="300px" height="auto" title="BobaBoard"/></center>
+<center><img src="https://raw.githubusercontent.com/BobaBoard/.github/main/profile/images/bbt-boba.png" width="300px" height="auto"/><img src="https://raw.githubusercontent.com/BobaBoard/.github/main/profile/images/logo.svg" width="300px" height="auto" title="BobaBoard"/></center>
 
 ## Be the Monarch of Your Own Realm!
 
